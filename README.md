@@ -9,8 +9,8 @@ This project analyzes credit risk using three tools in a structured workflow:
 ---
 
 ##  Data Sources
-- `application_record`: customer demographic and financial information  
-- `credit_record`: credit payment behavior  
+- `application_record`: (customer informations)[https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction]  
+- `credit_record`:(credit payment behavior)[https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction]  
 
 ---
 
