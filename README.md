@@ -1,4 +1,4 @@
-# 📊 Credit Risk Analysis Project
+#  Credit Risk Analysis Project
 
 This project focuses on **credit risk analysis** through a structured, end-to-end data workflow designed to handle **large datasets efficiently** and produce **actionable insights for credit decision-making**.
 
@@ -10,7 +10,7 @@ The project follows a clear separation of concerns:
 
 ---
 
-## 📁 Data Sources
+##  Data Sources
 
 The data comes from the *Credit Card Approval Prediction* dataset available on Kaggle:
 
@@ -24,7 +24,7 @@ The data comes from the *Credit Card Approval Prediction* dataset available on K
 
 ---
 
-## 🧱 Technical Workflow
+##  Technical Workflow
 
 ### 1) Data Ingestion (SQL Server)
 
@@ -74,7 +74,7 @@ The data comes from the *Credit Card Approval Prediction* dataset available on K
 
 ---
 
-## 🎯 Main Objectives
+##  Main Objectives
 
 * Analyze credit risk based on customer demographic and financial characteristics
 * Identify behavioral patterns associated with overdue payments and bad debt
@@ -82,7 +82,7 @@ The data comes from the *Credit Card Approval Prediction* dataset available on K
 
 ---
 
-## 📦 Deliverables
+##  Deliverables
 
 * **SQL scripts**
 
@@ -102,7 +102,7 @@ The data comes from the *Credit Card Approval Prediction* dataset available on K
 
 ---
 
-## 🧠 Key Insights (High-Level)
+##  Key Insights (High-Level)
 
 * A significant portion of clients experience payment delays
 * Higher income does not fully eliminate default risk
@@ -111,7 +111,7 @@ The data comes from the *Credit Card Approval Prediction* dataset available on K
 
 ---
 
-## 👤 Author
+##  Author
 
 **David Losasa**
 Data Analyst
